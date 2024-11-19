@@ -1,10 +1,12 @@
 export type Category =
-  | 'WinWin'
-  | 'Ten'
-  | 'Xiaojun'
-  | 'Liu Yangyang'
-  | 'Kun'
-  | 'Hendery'
+  | 'Jaemin'
+  | 'Jisung'
+  | 'Ren Jun'
+  | 'Jeno'
+  | 'Haechan'
+  | 'Chenle'
+  | 'Mark'
+  | 'NCT-DREAM'
 
 
 
