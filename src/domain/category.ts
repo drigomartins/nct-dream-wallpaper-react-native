@@ -6,7 +6,4 @@ export type Category =
   | 'Haechan'
   | 'Chenle'
   | 'Mark'
-  | 'NCT-DREAM'
-
-
-
+  | 'NCT-DREAM';

@@ -27,10 +27,15 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "394d4132-8f4d-4c29-86df-c62240ec4a0b"
+      }
     }
   },
   "react-native-google-mobile-ads": {
-    "android_app_id": "ca-app-pub-6202074218659375~1119208845",
-    "ios_app_id": "ca-app-pub-6202074218659375~1119208845"
+    "android_app_id": "ca-app-pub-6202074218659375~9554341870",
+    "ios_app_id": "ca-app-pub-6202074218659375~9554341870"
   }
 }

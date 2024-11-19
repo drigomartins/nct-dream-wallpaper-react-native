@@ -183,7 +183,7 @@ export const chenle: WallpaperItem[] = [
   },
   {
     name: 'Chenle',
-    link: 'https://br.pinterest.com/pin/193725221465470018/',
+    link: 'https://i.pinimg.com/736x/9b/c0/ae/9bc0ae2fea3d9735c3178a83ef14d2a2.jpg',
     category: 'Chenle',
     star: false,
   },
