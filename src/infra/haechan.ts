@@ -1,6 +1,6 @@
 import { WallpaperItem } from '@/domain';
 
-export const haechan : WallpaperItem[] = [
+export const haechan: WallpaperItem[] = [
   {
     name: 'Haechan ',
     link: 'https://i.pinimg.com/736x/bc/c1/3e/bcc13eca093753077465167d21477f0d.jpg',
@@ -202,6 +202,96 @@ export const haechan : WallpaperItem[] = [
   {
     name: 'Haechan ',
     link: 'https://i.pinimg.com/736x/fd/15/8f/fd158fe670f0869b4e6d8f6307561019.jpg',
+    category: 'Haechan',
+    star: false,
+  },
+  {
+    name: 'Haechan ',
+    link: 'https://i.pinimg.com/736x/c0/0a/67/c00a677efc11e028c949c65c2e2e1d94.jpg',
+    category: 'Haechan',
+    star: false,
+  },
+  {
+    name: 'Haechan ',
+    link: 'https://i.pinimg.com/736x/39/ca/81/39ca81000aec0a9a061e82be01ba3f5f.jpg',
+    category: 'Haechan',
+    star: false,
+  },
+  {
+    name: 'Haechan ',
+    link: 'https://i.pinimg.com/736x/66/ec/66/66ec66c054bcde67a238a9f6f3116d81.jpg',
+    category: 'Haechan',
+    star: false,
+  },
+  {
+    name: 'Haechan ',
+    link: 'https://i.pinimg.com/736x/7e/93/74/7e9374c4b603918defbf4dc4f7a467c7.jpg',
+    category: 'Haechan',
+    star: false,
+  },
+  {
+    name: 'Haechan ',
+    link: 'https://i.pinimg.com/736x/b1/76/8f/b1768f644f99f8a2d92114f407018d7e.jpg',
+    category: 'Haechan',
+    star: false,
+  },
+  {
+    name: 'Haechan ',
+    link: 'https://i.pinimg.com/736x/cd/93/28/cd93285a539ac4e9a42c88e78a096a84.jpg',
+    category: 'Haechan',
+    star: false,
+  },
+  {
+    name: 'Haechan ',
+    link: 'https://i.pinimg.com/736x/b6/83/e5/b683e5b7f88dab358e1efc5f87a60afe.jpg',
+    category: 'Haechan',
+    star: false,
+  },
+  {
+    name: 'Haechan ',
+    link: 'https://i.pinimg.com/736x/fa/56/e9/fa56e9f34af7f291ff0ed73e0de9062b.jpg',
+    category: 'Haechan',
+    star: false,
+  },
+  {
+    name: 'Haechan ',
+    link: 'https://i.pinimg.com/736x/33/0e/7c/330e7cb779f3edbc4b51085d69020b76.jpg',
+    category: 'Haechan',
+    star: false,
+  },
+  {
+    name: 'Haechan ',
+    link: 'https://i.pinimg.com/736x/43/ab/35/43ab35b8d56a96d22188565405d3a1fb.jpg',
+    category: 'Haechan',
+    star: false,
+  },
+  {
+    name: 'Haechan ',
+    link: 'https://i.pinimg.com/736x/6f/e0/3b/6fe03bcdf29cf71e6143096a63b736c1.jpg',
+    category: 'Haechan',
+    star: false,
+  },
+  {
+    name: 'Haechan ',
+    link: 'https://i.pinimg.com/736x/12/16/6e/12166e45343b1440ca66e7d084133871.jpg',
+    category: 'Haechan',
+    star: false,
+  },
+  {
+    name: 'Haechan ',
+    link: 'https://i.pinimg.com/736x/64/18/b3/6418b3326ea56fa78e0baed3fccbdc09.jpg',
+    category: 'Haechan',
+    star: false,
+  },
+  {
+    name: 'Haechan ',
+    link: 'https://i.pinimg.com/736x/d9/a2/7b/d9a27b2a0d69fa8c5c50c3504349ab63.jpg',
+    category: 'Haechan',
+    star: false,
+  },
+  {
+    name: 'Haechan ',
+    link: 'https://i.pinimg.com/736x/99/18/10/991810842ef587789cf1d1b689a28221.jpg',
     category: 'Haechan',
     star: false,
   },

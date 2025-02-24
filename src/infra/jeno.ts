@@ -1,6 +1,6 @@
 import { WallpaperItem } from '@/domain';
 
-export const jeno : WallpaperItem[] = [
+export const jeno: WallpaperItem[] = [
   {
     name: 'Jeno',
     link: 'https://i.pinimg.com/736x/ac/a5/95/aca595ecb5012b887c94d2aa8d2dadea.jpg',
@@ -202,6 +202,78 @@ export const jeno : WallpaperItem[] = [
   {
     name: 'Jeno',
     link: 'https://i.pinimg.com/736x/8c/45/72/8c4572e599fc26e427bc0f4918e5c8c1.jpg',
+    category: 'Jeno',
+    star: false,
+  },
+  {
+    name: 'Jeno',
+    link: 'https://i.pinimg.com/736x/bf/c9/a9/bfc9a9c5b702efcd4fa803b58b63f317.jpg',
+    category: 'Jeno',
+    star: false,
+  },
+  {
+    name: 'Jeno',
+    link: 'https://i.pinimg.com/736x/aa/ee/35/aaee35299b95137bae91d8dcc820085a.jpg',
+    category: 'Jeno',
+    star: false,
+  },
+  {
+    name: 'Jeno',
+    link: 'https://i.pinimg.com/736x/eb/33/5a/eb335a111a546298849a1e42b627df42.jpg',
+    category: 'Jeno',
+    star: false,
+  },
+  {
+    name: 'Jeno',
+    link: 'https://i.pinimg.com/736x/12/18/9a/12189abc7910a0eb1675bd34bb8d4082.jpg',
+    category: 'Jeno',
+    star: false,
+  },
+  {
+    name: 'Jeno',
+    link: 'https://i.pinimg.com/736x/7f/ab/1f/7fab1ff2139726dcdc89c4570d7e0d80.jpg',
+    category: 'Jeno',
+    star: false,
+  },
+  {
+    name: 'Jeno',
+    link: 'https://i.pinimg.com/736x/85/58/32/85583291d0f419e799f2726c9bc950c3.jpg',
+    category: 'Jeno',
+    star: false,
+  },
+  {
+    name: 'Jeno',
+    link: 'https://i.pinimg.com/736x/01/bc/17/01bc17417e5be6f8952200cc32afc705.jpg',
+    category: 'Jeno',
+    star: false,
+  },
+  {
+    name: 'Jeno',
+    link: 'https://i.pinimg.com/736x/e2/87/fd/e287fd2144739dde5ca6fb2b4867c09b.jpg',
+    category: 'Jeno',
+    star: false,
+  },
+  {
+    name: 'Jeno',
+    link: 'https://i.pinimg.com/736x/7a/62/79/7a6279af0e9a4c0d96b7781cac003611.jpg',
+    category: 'Jeno',
+    star: false,
+  },
+  {
+    name: 'Jeno',
+    link: 'https://i.pinimg.com/736x/ff/c8/b2/ffc8b2be590e484d39aedba1bfa257f4.jpg',
+    category: 'Jeno',
+    star: false,
+  },
+  {
+    name: 'Jeno',
+    link: 'https://i.pinimg.com/736x/aa/f2/d0/aaf2d028004cc90dcf40a627aabfb38b.jpg',
+    category: 'Jeno',
+    star: false,
+  },
+  {
+    name: 'Jeno',
+    link: 'https://i.pinimg.com/736x/5f/49/ef/5f49ef0210df6846079afb862602f609.jpg',
     category: 'Jeno',
     star: false,
   },

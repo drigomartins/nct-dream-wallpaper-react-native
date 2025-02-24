@@ -1,6 +1,6 @@
 import { WallpaperItem } from '@/domain';
 
-export const nctDream : WallpaperItem[] = [
+export const nctDream: WallpaperItem[] = [
   {
     name: 'NCT-DREAM',
     link: 'https://i.pinimg.com/736x/e9/60/4a/e9604a402ea1bd2dcef54ea10e2fe4bb.jpg',
@@ -82,6 +82,114 @@ export const nctDream : WallpaperItem[] = [
   {
     name: 'NCT-DREAM',
     link: 'https://i.pinimg.com/736x/26/be/98/26be98c4e13b915cdbdd280a03ad2a6c.jpg',
+    category: 'NCT-DREAM',
+    star: false,
+  },
+  {
+    name: 'NCT-DREAM',
+    link: 'https://i.pinimg.com/736x/60/09/c2/6009c22494b737f9c24000e5404b115d.jpg',
+    category: 'NCT-DREAM',
+    star: false,
+  },
+  {
+    name: 'NCT-DREAM',
+    link: 'https://i.pinimg.com/736x/ee/f8/65/eef865b686c7b6ce009d96c4175bcba3.jpg',
+    category: 'NCT-DREAM',
+    star: false,
+  },
+  {
+    name: 'NCT-DREAM',
+    link: 'https://i.pinimg.com/736x/93/e3/d9/93e3d9f04a3c14a8739171f953832484.jpg',
+    category: 'NCT-DREAM',
+    star: false,
+  },
+  {
+    name: 'NCT-DREAM',
+    link: 'https://i.pinimg.com/736x/12/0f/7a/120f7abda032826bc5286fa5d9102894.jpg',
+    category: 'NCT-DREAM',
+    star: false,
+  },
+  {
+    name: 'NCT-DREAM',
+    link: 'https://i.pinimg.com/736x/e2/1b/00/e21b00fda049874fab0cc30539907562.jpg',
+    category: 'NCT-DREAM',
+    star: false,
+  },
+  {
+    name: 'NCT-DREAM',
+    link: 'https://i.pinimg.com/736x/97/d4/01/97d401aacc2d01a59bd1eebf3bbd5867.jpg',
+    category: 'NCT-DREAM',
+    star: false,
+  },
+  {
+    name: 'NCT-DREAM',
+    link: 'https://i.pinimg.com/736x/03/04/61/030461a144c24117723a91e543e79c50.jpg',
+    category: 'NCT-DREAM',
+    star: false,
+  },
+  {
+    name: 'NCT-DREAM',
+    link: 'https://i.pinimg.com/736x/1a/50/38/1a50382b1a2c4e18c0ea368c6edb6ef0.jpg',
+    category: 'NCT-DREAM',
+    star: false,
+  },
+  {
+    name: 'NCT-DREAM',
+    link: 'https://i.pinimg.com/736x/0f/49/21/0f492176f212227035f2ddb8e01cef5b.jpg',
+    category: 'NCT-DREAM',
+    star: false,
+  },
+  {
+    name: 'NCT-DREAM',
+    link: 'https://i.pinimg.com/736x/79/8b/c7/798bc72e106e9ef8452e4f209bb7f574.jpg',
+    category: 'NCT-DREAM',
+    star: false,
+  },
+  {
+    name: 'NCT-DREAM',
+    link: 'https://i.pinimg.com/736x/14/3f/f0/143ff093ce0be455efb141eb36b11a23.jpg',
+    category: 'NCT-DREAM',
+    star: false,
+  },
+  {
+    name: 'NCT-DREAM',
+    link: 'https://i.pinimg.com/736x/64/19/eb/6419eba496b6761ba285363d29262f40.jpg',
+    category: 'NCT-DREAM',
+    star: false,
+  },
+  {
+    name: 'NCT-DREAM',
+    link: 'https://i.pinimg.com/736x/ae/c0/3d/aec03dc296367a9dc4beb60fd4433069.jpg',
+    category: 'NCT-DREAM',
+    star: false,
+  },
+  {
+    name: 'NCT-DREAM',
+    link: 'https://i.pinimg.com/736x/61/a8/e7/61a8e7b47ada8e9d086bd2d796f6361d.jpg',
+    category: 'NCT-DREAM',
+    star: false,
+  },
+  {
+    name: 'NCT-DREAM',
+    link: 'https://i.pinimg.com/736x/1e/3b/08/1e3b0896f9897c7f1411401ab273b1b6.jpg',
+    category: 'NCT-DREAM',
+    star: false,
+  },
+  {
+    name: 'NCT-DREAM',
+    link: 'https://i.pinimg.com/736x/8f/cf/e6/8fcfe61821a2684c7ecbe37d4d87ce18.jpg',
+    category: 'NCT-DREAM',
+    star: false,
+  },
+  {
+    name: 'NCT-DREAM',
+    link: 'https://i.pinimg.com/736x/93/dc/b6/93dcb61b465ef7c116d24380c3e9b5c8.jpg',
+    category: 'NCT-DREAM',
+    star: false,
+  },
+  {
+    name: 'NCT-DREAM',
+    link: 'https://i.pinimg.com/736x/4c/8c/3e/4c8c3e2a10e5f52606101eb9f274bd60.jpg',
     category: 'NCT-DREAM',
     star: false,
   },

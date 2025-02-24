@@ -205,4 +205,22 @@ export const chenle: WallpaperItem[] = [
     category: 'Chenle',
     star: false,
   },
+  {
+    name: 'Chenle',
+    link: 'https://i.pinimg.com/736x/84/1e/e8/841ee80aea5f6b3ebbbfc8c5fa871852.jpg',
+    category: 'Chenle',
+    star: false,
+  },
+  {
+    name: 'Chenle',
+    link: 'https://i.pinimg.com/736x/52/6f/8f/526f8fbb9fb1d5605c4cc966e4e12bef.jpg',
+    category: 'Chenle',
+    star: false,
+  },
+  {
+    name: 'Chenle',
+    link: 'https://i.pinimg.com/736x/6f/f2/5b/6ff25b59480cc6bfc9e3edb53a2a0391.jpg',
+    category: 'Chenle',
+    star: false,
+  },
 ];
